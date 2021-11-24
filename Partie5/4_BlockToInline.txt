@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div style="border: 1px solid black">Hello World</div>
+
+The DIV element is a block element, and will always start on a new line and take up the full width available (stretches out to the left and right as far as it can).
+
+<div style="display:inline;border: 1px solid black">Hello World</div>
+The display property displays DIV element as an inline element (like SPAN). Any height and width properties will have no effect.<span style="display:block;border: 1px solid black">Hello World</span>
+<p>The P element is a block element</p>
+</body>
+</html>
